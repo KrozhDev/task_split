@@ -17,7 +17,5 @@ public class Main {
         for (String word: splittedString) {
             System.out.print(word + ";");
         }
-
-
     }
 }
